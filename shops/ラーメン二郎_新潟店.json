@@ -1,0 +1,39 @@
+{
+  "name": "ラーメン二郎　新潟店",
+  "lat": 37.917246,
+  "lng": 139.060097,
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17,
+      "close": 22
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 10,
+      "close": 16
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page104.html",
+  "tabelog": "https://tabelog.com/niigata/A1501/A150101/15016019/",
+  "note": "月・第３日・祝 はお休み ",
+  "type": 0
+}

@@ -1,0 +1,52 @@
+{
+  "name": "ラーメン二郎　八王子野猿街道店２",
+  "lat": "35.629515",
+  "lng": "139.401367",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11.0,
+      "close": 14.5
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17,
+      "close": 22.5
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11,
+      "close": 15
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 16.5,
+      "close": 22.5
+    },
+    {
+      "dayOfWeekList": [
+        6
+      ],
+      "open": 11,
+      "close": 17
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page018.html",
+  "tabelog": "https://tabelog.com/tokyo/A1329/A132904/13025633/",
+  "type": 0,
+  "twitter": "jiro_yaenkaido2"
+}

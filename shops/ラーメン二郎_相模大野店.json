@@ -1,0 +1,41 @@
+{
+  "name": "ラーメン二郎　相模大野店",
+  "lat": "35.5298",
+  "lng": "139.433181",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 10.5,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17.5,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 10.5,
+      "close": 15
+    }
+  ],
+  "note": "日曜日も休むことあり",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page031.html",
+  "tabelog": "https://tabelog.com/kanagawa/A1407/A140701/14000839/",
+  "type": 0,
+  "facebook": "sumojiro",
+  "twitter": "sumo_jiro"
+}

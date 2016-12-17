@@ -1,0 +1,40 @@
+{
+  "name": "らーめん　ぽっぽっ屋　水道橋店",
+  "lat": "35.701455",
+  "lng": "139.75365",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 15
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17.5,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 11,
+      "close": 17
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/tokyo/A1310/A131003/13041752/",
+  "type": 1
+}

@@ -1,0 +1,28 @@
+{
+  "name": "蓮爾　登戸店",
+  "lat": "35.620375",
+  "lng": "139.561685",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 18,
+      "close": 24
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11,
+      "close": 17
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/kanagawa/A1405/A140506/14003791/",
+  "type": 1
+}

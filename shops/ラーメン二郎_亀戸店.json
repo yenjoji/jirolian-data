@@ -1,0 +1,35 @@
+{
+  "name": "ラーメン二郎　亀戸店",
+  "lat": "35.701933",
+  "lng": "139.826678",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 11.0,
+      "close": 14.5
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 17.5,
+      "close": 21.5
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page021.html",
+  "tabelog": "https://tabelog.com/tokyo/A1312/A131202/13008000/",
+  "type": 0,
+  "twitter" : "jiro_kame"
+}

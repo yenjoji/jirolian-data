@@ -1,0 +1,40 @@
+{
+  "name": "ラーメン二郎　京急川崎店",
+  "lat": "35.534925",
+  "lng": "139.705648",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11.0,
+      "close": 14.0
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 18,
+      "close": 22
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11,
+      "close": 16
+    }
+  ],
+  "note": "祝日休み",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page022.html",
+  "tabelog": "https://tabelog.com/kanagawa/A1405/A140501/14000765/",
+  "type": 0
+}

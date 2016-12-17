@@ -1,0 +1,39 @@
+{
+  "name": "ラーメン二郎　西台駅前店",
+  "lat": "35.78593121",
+  "lng": "139.67468664",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        3
+      ],
+      "open": 11,
+      "close": 13.5
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        3
+      ],
+      "open": 17.5,
+      "close": 21.5
+    },
+    {
+      "dayOfWeekList": [
+        2,
+        4,
+        5
+      ],
+      "open": 11,
+      "close": 14
+    }
+  ],
+  "note": "祝日も休み",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page103.html",
+  "tabelog": "https://tabelog.com/tokyo/A1322/A132205/13202668/",
+  "type": 0,
+  "twitter": "jiro_nishidai"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "ラーメン二郎　新小金井街道店",
+  "lat": "35.708436",
+  "lng": "139.496208",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17,
+      "close": 24
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 12,
+      "close": 23
+    },
+    {
+      "dayOfWeekList": [
+        6
+      ],
+      "open": 12,
+      "close": 19
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page020.html",
+  "tabelog": "https://tabelog.com/tokyo/A1325/A132501/13005945/",
+  "type": 0,
+  "twitter" : "koganeijiro"
+}

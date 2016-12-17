@@ -1,0 +1,26 @@
+{
+  "name": "ラーメン富士丸 神谷本店",
+  "lat": "35.772331",
+  "lng": "139.733116",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 18.33,
+      "close": 24
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/tokyo/A1323/A132305/13002910/",
+  "officialWeb": "",
+  "twitter": "",
+  "facebook": "",
+  "type": 1
+}

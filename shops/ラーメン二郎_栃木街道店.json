@@ -1,0 +1,40 @@
+{
+  "name": "ラーメン二郎　栃木街道店",
+  "lat": "36.422833",
+  "lng": "139.796786",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11.5,
+      "close": 14.75
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 18,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11.5,
+      "close": 15.5
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page161.html",
+  "tabelog": "https://tabelog.com/tochigi/A0902/A090201/9002641/",
+  "type": 0,
+  "twitter" : "Tochigikaidoten"
+}

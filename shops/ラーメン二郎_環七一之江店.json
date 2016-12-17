@@ -1,0 +1,48 @@
+{
+  "name": "ラーメン二郎　環七一之江店",
+  "lat": "35.684091",
+  "lng": "139.881951",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "open": 17.5,
+      "close": 20.5
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 10.33,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 17,
+      "close": 19.5
+    }
+  ],
+  "note": "祝日は土日と同じ営業時間",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page030.html",
+  "tabelog": "https://tabelog.com/tokyo/A1312/A131205/13010385/",
+  "type": 0,
+  "twitter" : "39VRRQuEU1EDI0R"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ラーメン二郎　池袋東口店",
+  "lat": "35.728301",
+  "lng": "139.713861",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 11.5,
+      "close": 23.0
+    }
+  ],
+  "note": "月曜日が祝日の場合は翌日休 ",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page019.html",
+  "tabelog": "https://tabelog.com/tokyo/A1305/A130501/13003881/",
+  "type": 0
+}

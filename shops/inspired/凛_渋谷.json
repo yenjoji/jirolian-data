@@ -1,0 +1,34 @@
+{
+  "name": "凛　渋谷",
+  "lat": "35.663241",
+  "lng": "139.696926",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11,
+      "close": 15
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 18,
+      "close": 22
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/tokyo/A1303/A130301/13121071/",
+  "type": 1
+}

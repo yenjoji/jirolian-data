@@ -1,0 +1,33 @@
+{
+  "name": "ラーメン二郎　めじろ台法政大学前店",
+  "lat": "35.629492",
+  "lng": "139.310355",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "open": 11.5,
+      "close": 14.5
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "open": 18,
+      "close": 21
+    }
+  ],
+  "note": "祝日休み",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page026.html",
+  "tabelog": "https://tabelog.com/tokyo/A1329/A132904/13010397/",
+  "type": 0
+}

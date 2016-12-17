@@ -1,0 +1,32 @@
+{
+  "name": "らーめん影武者",
+  "lat": "",
+  "lng": "",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        6
+      ],
+      "open": 11,
+      "close": 20
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/tokyo/A1311/A131101/13103279/",
+  "officialWeb": "",
+  "twitter": "",
+  "facebook": "",
+  "type": 1
+}

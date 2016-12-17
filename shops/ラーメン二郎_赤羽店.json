@@ -1,0 +1,36 @@
+{
+  "name": "ラーメン二郎　赤羽店",
+  "lat": "35.780107",
+  "lng": "139.720836",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 17,
+      "close": 20
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page136.html",
+  "tabelog": "https://tabelog.com/tokyo/A1323/A132305/13136555/",
+  "type": 0,
+  "note": "しばらくは昼のみ営業",
+  "twitter": "Akabane260"
+}

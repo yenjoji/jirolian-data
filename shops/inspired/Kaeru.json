@@ -1,0 +1,37 @@
+{
+  "name": "Kaeru",
+  "lat": "35.708415",
+  "lng": "139.666204",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 11,
+      "close": 15
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 18,
+      "close": 23
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/tokyo/A1319/A131902/13097621/",
+  "officialWeb": "",
+  "twitter": "",
+  "facebook": "",
+  "type": 1
+}

@@ -1,0 +1,39 @@
+{
+  "name": "ラーメン二郎　品川店",
+  "lat": "35.623894",
+  "lng": "139.742996",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 14.5
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17,
+      "close": 22.5
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11,
+      "close": 14
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page012.html",
+  "tabelog": "https://tabelog.com/tokyo/A1314/A131405/13007375/",
+  "type": 0
+}

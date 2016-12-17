@@ -1,0 +1,22 @@
+{
+  "name": "ラーメン二郎　府中店",
+  "lat": "35.672048",
+  "lng": "139.477253",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 16,
+      "close": 23
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page123.html",
+  "tabelog": "https://tabelog.com/tokyo/A1326/A132602/13022272/",
+  "type": 0
+}

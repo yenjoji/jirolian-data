@@ -1,0 +1,35 @@
+{
+  "name": "りらくしん",
+  "lat": "",
+  "lng": "",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11.5,
+      "close": 13.5
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 18,
+      "close": 20
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/tokyo/A1318/A131813/13013897/",
+  "officialWeb": "http://foodpia.geocities.jp/relaxinbar_2013/",
+  "twitter": "",
+  "facebook": "",
+  "type": 1
+}

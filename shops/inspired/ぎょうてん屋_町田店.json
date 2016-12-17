@@ -1,0 +1,23 @@
+{
+  "name": "ぎょうてん屋　町田店",
+  "lat": "35.542482",
+  "lng": "139.448573",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 11,
+      "close": 26
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/tokyo/A1327/A132701/13022216/",
+  "type": 1
+}

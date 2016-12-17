@@ -1,0 +1,29 @@
+{
+  "name": "ラーメン二郎　桜台駅前店",
+  "lat": "35.738806",
+  "lng": "139.661859",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17.5,
+      "close": 23.5
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 10,
+      "close": 16
+    }
+  ],
+  "note": "日・祝（不定休） ",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page154.html",
+  "tabelog": "https://tabelog.com/tokyo/A1321/A132101/13038383/",
+  "type": 0
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ラーメン二郎　小岩店",
+  "lat": "35.734951",
+  "lng": "139.88001",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 10.5,
+      "close": 15.0
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page102.html",
+  "tabelog": "https://tabelog.com/tokyo/A1312/A131204/13021952/",
+  "type": 0,
+  "twitter" : "koiwalemon"
+}

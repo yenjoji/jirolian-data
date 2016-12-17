@@ -1,0 +1,39 @@
+{
+  "name": "ラーメン二郎　会津若松駅前店",
+  "lat": 37.506635,
+  "lng": 139.931468,
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 11,
+      "close": 18
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page121.html",
+  "tabelog": "https://tabelog.com/fukushima/A0705/A070501/7011865/",
+  "note": "月・第３日・祝（不定休）",
+  "type": 0
+}

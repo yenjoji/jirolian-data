@@ -1,0 +1,29 @@
+{
+  "name": "ラーメン二郎　歌舞伎町店",
+  "lat": "35.695756",
+  "lng": "139.701924",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 11.5,
+      "close": 27.0
+    },
+    {
+      "dayOfWeekList": [
+        2
+      ],
+      "open": 11.5,
+      "close": 18.5
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page011.html",
+  "tabelog": "https://tabelog.com/tokyo/A1304/A130401/13200815/",
+  "type": 0
+}

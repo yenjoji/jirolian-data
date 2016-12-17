@@ -1,0 +1,40 @@
+{
+  "name": "ラーメン二郎　湘南藤沢店",
+  "lat": "35.342981",
+  "lng": "139.482409",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11,
+      "close": 14.5
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 17,
+      "close": 21.5
+    },
+    {
+      "dayOfWeekList": [
+        6
+      ],
+      "open": 11,
+      "close": 20
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page155.html",
+  "tabelog": "https://tabelog.com/kanagawa/A1404/A140404/14035072/",
+  "type": 0,
+  "twitter" : "guck45"
+}

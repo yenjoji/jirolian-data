@@ -1,0 +1,30 @@
+{
+  "name": "ラーメン二郎　新宿小滝橋通り店",
+  "lat": "35.696459",
+  "lng": "139.698458",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        6
+      ],
+      "open": 11.0,
+      "close": 23.0
+    },
+    {
+      "dayOfWeekList": [
+        4,
+        5
+      ],
+      "open": 11,
+      "close": 25
+    }
+  ],
+  "note": "金・土・祝前日　11：00～25：00  ",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page016.html",
+  "tabelog": "https://tabelog.com/tokyo/A1304/A130401/13001044/",
+  "type": 0
+}

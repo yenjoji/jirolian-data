@@ -1,0 +1,46 @@
+{
+  "name": "ラーメン二郎　松戸駅前店",
+  "lat": "35.786008",
+  "lng": "139.899407",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "open": 18,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        4
+      ],
+      "open": 18,
+      "close": 20.5
+    },
+    {
+      "dayOfWeekList": [
+        6
+      ],
+      "open": 11,
+      "close": 17
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page025.html",
+  "tabelog": "https://tabelog.com/chiba/A1203/A120302/12000236/",
+  "type": 0,
+  "twitter" : "matsudojiro3"
+}

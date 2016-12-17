@@ -1,0 +1,38 @@
+{
+  "name": "ラーメン二郎　荻窪店",
+  "lat": "35.703593",
+  "lng": "139.626289",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "open": 11.5,
+      "close": 14.5
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "open": 17.5,
+      "close": 22
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 16,
+      "close": 22
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page027.html",
+  "tabelog": "https://tabelog.com/tokyo/A1319/A131906/13006060/",
+  "note": "祝日も休み",
+  "type": 0
+}

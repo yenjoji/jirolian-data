@@ -1,0 +1,39 @@
+{
+  "name": "ラーメン二郎　札幌店",
+  "lat": "43.067403",
+  "lng": "141.343950",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11,
+      "close": 15
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page130.html",
+  "tabelog": "https://tabelog.com/hokkaido/A0101/A010201/1041731/",
+  "type": 0
+}

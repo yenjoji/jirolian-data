@@ -1,0 +1,40 @@
+{
+  "name": "ラーメン二郎　環七新代田店",
+  "lat": "35.661973",
+  "lng": "139.660427",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 13
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 17,
+      "close": 20.5
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 11,
+      "close": 16
+    }
+  ],
+  "note": "祝日は土日と同じ営業時間",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page017.html",
+  "tabelog": "https://tabelog.com/tokyo/A1318/A131803/13010833/",
+  "type": 0,
+  "twitter" : "26shinshindaita"
+}

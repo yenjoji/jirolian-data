@@ -1,0 +1,36 @@
+{
+  "name": "ラーメン二郎　京成大久保店",
+  "lat": "35.691493",
+  "lng": "140.049496",
+  "type": 0,
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11.0,
+      "close": 14.0
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 17,
+      "close": 20
+    }
+  ],
+  "note": "祝日休み",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page029.html",
+  "tabelog": "https://tabelog.com/chiba/A1202/A120204/12000911/",
+  "twitter" : "OKB26"
+}

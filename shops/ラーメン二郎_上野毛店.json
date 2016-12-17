@@ -1,0 +1,40 @@
+{
+  "name": "ラーメン二郎　上野毛店",
+  "lat": "35.612421",
+  "lng": "139.638978",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11.0,
+      "close": 14.75
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 18.0,
+      "close": 22.0
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11,
+      "close": 14.5
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page028.html",
+  "tabelog": "https://tabelog.com/tokyo/A1312/A131202/13008000/",
+  "note": "祝日休み",
+  "type": 0
+}

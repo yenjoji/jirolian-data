@@ -1,0 +1,35 @@
+{
+  "name": "ラーメン二郎　三田本店",
+  "lat": 35.648144,
+  "lng": 139.741531,
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 8.5,
+      "close": 15.0
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 17,
+      "close": 20
+    }
+  ],
+  "note": "祝日休み",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page004.html",
+  "tabelog": "https://tabelog.com/tokyo/A1314/A131402/13006051/",
+  "type": 0
+}

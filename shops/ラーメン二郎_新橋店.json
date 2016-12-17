@@ -1,0 +1,28 @@
+{
+  "name": "ラーメン二郎　新橋店",
+  "lat": "35.665626",
+  "lng": "139.750571",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 21.5
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11,
+      "close": 21
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page041.html",
+  "tabelog": "https://tabelog.com/tokyo/A1308/A130802/13131107/",
+  "type": 0
+}

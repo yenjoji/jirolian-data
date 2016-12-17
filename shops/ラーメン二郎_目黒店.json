@@ -1,0 +1,34 @@
+{
+  "name": "ラーメン二郎　目黒店",
+  "lat": "35.634192",
+  "lng": "139.707051",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 12,
+      "close": 16
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": 18,
+      "close": 24
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page005.html",
+  "tabelog": "https://tabelog.com/tokyo/A1316/A131601/13003449/",
+  "type": 0
+}

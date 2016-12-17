@@ -1,0 +1,22 @@
+{
+  "name": "ラーメン二郎　仙川店",
+  "lat": "35.661785",
+  "lng": "139.583883",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 17.5,
+      "close": 23.5
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page006.html",
+  "tabelog": "https://tabelog.com/tokyo/A1326/A132601/13000699/",
+  "type": 0
+}

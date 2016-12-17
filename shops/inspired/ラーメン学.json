@@ -1,0 +1,40 @@
+{
+  "name": "ラーメン学",
+  "lat": "35.569264",
+  "lng": "139.397841",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11.5,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 18,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 18,
+      "close": 20
+    }
+  ],
+  "note": "祝日の営業時間は土曜日と同じ",
+  "tabelog": "https://tabelog.com/kanagawa/A1407/A140701/14046216/",
+  "type": 1
+}

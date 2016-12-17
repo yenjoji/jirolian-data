@@ -1,0 +1,39 @@
+{
+  "name": "ラーメン二郎　千住大橋駅前店",
+  "lat": "35.742757",
+  "lng": "139.79702",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "open": 11,
+      "close": 14
+    },
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "open": 18,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        5
+      ],
+      "open": 11,
+      "close": 15
+    }
+  ],
+  "note": "日・木・祝（不定休） ",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page133.html",
+  "tabelog": "https://tabelog.com/tokyo/A1324/A132402/13090912/",
+  "type": 0,
+  "twitter" : "senjujirou26"
+}

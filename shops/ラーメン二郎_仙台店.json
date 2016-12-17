@@ -1,0 +1,40 @@
+{
+  "name": "ラーメン二郎　仙台店",
+  "lat": "38.26171",
+  "lng": "140.866165",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11.5,
+      "close": 14.5
+    },
+    {
+      "dayOfWeekList": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 17,
+      "close": 21
+    },
+    {
+      "dayOfWeekList": [
+        6
+      ],
+      "open": 11.5,
+      "close": 19.5
+    }
+  ],
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page037.html",
+  "tabelog": "https://tabelog.com/miyagi/A0401/A040101/4011894/",
+  "type": 0,
+  "twitter" : "jiro_sendai1023"
+}

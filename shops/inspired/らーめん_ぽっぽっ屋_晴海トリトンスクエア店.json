@@ -1,0 +1,29 @@
+{
+  "name": "らーめん ぽっぽっ屋　晴海トリトンスクエア店",
+  "lat": "35.657335",
+  "lng": "139.78242",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 23
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 11,
+      "close": 22
+    }
+  ],
+  "note": "祝日の営業時間はは土日と同じ",
+  "tabelog": "https://tabelog.com/tokyo/A1313/A131302/13009021/",
+  "type": 1
+}

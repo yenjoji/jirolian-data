@@ -1,0 +1,23 @@
+{
+  "name": "ラーメン二郎　神田神保町店",
+  "lat": "35.696378",
+  "lng": "139.75647",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open": 11,
+      "close": 17
+    }
+  ],
+  "note": "祝日も休み",
+  "pcBranch": "http://www.geocities.co.jp/Foodpia-Olive/3433/page067.html",
+  "tabelog": "https://tabelog.com/tokyo/A1310/A131003/13010387/",
+  "type": 0
+}

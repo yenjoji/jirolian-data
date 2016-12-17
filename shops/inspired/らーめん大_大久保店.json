@@ -1,0 +1,29 @@
+{
+  "name": "らーめん大　大久保店",
+  "lat": "35.700298",
+  "lng": "139.696175",
+  "businessHourses": [
+    {
+      "dayOfWeekList": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": 11,
+      "close": 26.5
+    },
+    {
+      "dayOfWeekList": [
+        5,
+        6
+      ],
+      "open": 11,
+      "close": 23
+    }
+  ],
+  "note": "",
+  "tabelog": "https://tabelog.com/tokyo/A1304/A130404/13085897/",
+  "type": 1
+}
